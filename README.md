@@ -1,0 +1,1 @@
+# To-check-the-given-word-is-Palindrome-or-not
